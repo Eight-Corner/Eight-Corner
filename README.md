@@ -67,10 +67,11 @@ sub : <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&
 
 👇 click! web-blog
 
-https://eight-corner.github.io
+[Corner's Velog🌱](https://velog.io/@corner3499)
 
-https://iu-corner.tistory.com
+[Corner's Tistory Blog](https://iu-corner.tistory.com) - Pause
 
+[Github.io](https://eight-corner.github.io) - Pause
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eight-Corner&show_icons=true&theme=tokyonight)
