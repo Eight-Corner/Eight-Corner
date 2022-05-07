@@ -24,7 +24,7 @@ I love to develop and I write text on my blog for remember.🧨
 
 **Languages**
 
- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6db33f"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6db33f"/> <img src="https://img.shields.io/badge/Python-e8eaf6?style=for-the-badge&logo=django&logoColor=3776ab"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 
 **Database** 
 
@@ -63,7 +63,13 @@ sub : <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&
 #### **Social**
 
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+
+👇 click! web-blog
+
+https://eight-corner.github.io
+
+https://iu-corner.tistory.com
 
 
 
