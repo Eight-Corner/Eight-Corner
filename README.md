@@ -22,9 +22,13 @@ I love to develop and I write text on my blog for remember.🧨
 
 **Recentely learning Skills:** <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>
 
-**Languages **
+**Languages**
+
  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6db33f"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
-**Database** : <img src="https://img.shields.io/badge/RDBMS-MySQL-4479a1?style=flat&logo=MySQL&logoColor=4479a1"/> <img src="https://img.shields.io/badge/RDBMS-Oracle-f80000?style=flat&logo=Oracle&logoColor=f80000"/> <img src="https://img.shields.io/badge/RDBMS-SQLite3-003b57?style=flat&logo=MySQL&logoColor=003b57"/>
+
+**Database** 
+
+<img src="https://img.shields.io/badge/RDBMS-MySQL-4479a1?style=flat&logo=MySQL&logoColor=4479a1"/> <img src="https://img.shields.io/badge/RDBMS-Oracle-f80000?style=flat&logo=Oracle&logoColor=f80000"/> <img src="https://img.shields.io/badge/RDBMS-SQLite3-003b57?style=flat&logo=MySQL&logoColor=003b57"/>
 
 ##### ORM
 
