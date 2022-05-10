@@ -78,7 +78,7 @@ sub : <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&
 
 ---
 
-Recently Project Web Site
+Recent Learning Projects Web. 
 [🌐Corner Mall : Connect Link](https://corner-mall-client.vercel.app/)
 
 
