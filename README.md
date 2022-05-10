@@ -20,7 +20,7 @@ I love to develop and I write text on my blog for remember.🧨
 
 #### **🧑🏻‍💻Backend**
 
-**Recentely learning Skills:** <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/NuxtJS-green?style=flat&logo=Nuxt&logoColor=000000"/>
+**Recentely learning Skills:** <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/NuxtJS-green?style=flat&logo=Nuxt.js&logoColor=000000"/>
 
 **Languages**
 
