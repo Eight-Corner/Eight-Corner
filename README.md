@@ -69,9 +69,9 @@ sub : <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&
 
 [Corner's Velog🌱](https://velog.io/@corner3499)
 
-[Corner's Tistory Blog](https://iu-corner.tistory.com) - Pause
+[Corner's Tistory Blog](https://iu-corner.tistory.com)
 
-[Github.io](https://eight-corner.github.io) - Pause
+[Github.io](https://eight-corner.github.io)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eight-Corner&show_icons=true&theme=tokyonight)
