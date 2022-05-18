@@ -21,11 +21,10 @@ I love to develop and I write text on my blog for remember.🧨
 
 #### **🧑🏻‍💻Backend**
 
-**Recentely learning Skills:** <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  
+**Recentely learning Skills:** <img src="https://img.shields.io/badge/Go-blue?style=flat&logo=Go&logoColor=000000"/>  
 
 **Languages**
-
- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6db33f"/> <img src="https://img.shields.io/badge/Python-e8eaf6?style=for-the-badge&logo=django&logoColor=3776ab"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
+<img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6db33f"/> <img src="https://img.shields.io/badge/Python-e8eaf6?style=for-the-badge&logo=django&logoColor=3776ab"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
 
 **Database** 
 
