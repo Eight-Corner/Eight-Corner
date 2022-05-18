@@ -69,9 +69,11 @@ sub : <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&
 
 #### **Social**
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+Click Badge [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eight-corner) [![MyInstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kingrlgns/)
 
+
+
+ 
 👇 click! web-blog
 
 [Corner's Velog🌱](https://velog.io/@corner3499)
