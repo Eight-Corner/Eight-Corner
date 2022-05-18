@@ -1,5 +1,12 @@
 ### Eight-Corner (Kihoon) Profile  🐷
 
+> *The future is gained from present pains.*
+
+
+### 티스토리
+👉 Click! [🌱Corner's Tistory Blog](https://iu-corner.tistory.com)
+
+
 👋🏻Hi! I'm **fullstack developer** using now Node and Nuxt.🥸
 
 I majored in Department of Information & Communication Security.🌐
