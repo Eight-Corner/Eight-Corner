@@ -7,7 +7,7 @@
 👉 Click! [🌱Corner's Tistory Blog](https://iu-corner.tistory.com)
 
 
-👋🏻Hi! I'm **fullstack developer** using now Node and Nuxt.🥸
+👋🏻Hi! I'm **fullstack developer** using now Go lang and Nuxt.js🥸
 
 I majored in Department of Information & Communication Security.🌐
 
