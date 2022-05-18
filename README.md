@@ -14,13 +14,14 @@ I love to develop and I write text on my blog for remember.🧨
 
 #### **🖥Frontend**
 
-<img src="https://img.shields.io/badge/Vue.js-3DDC84?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Ionic-white?style=flat&logo=Ionic&logoColor=3880FF"/> <img src="https://img.shields.io/badge/Ant Design-white?style=flat&logo=Ant Design&logoColor=0170fe"/> <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=E34f26"/> <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3&logoColor=1572b6"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=f7df1e"/>
+<img src="https://img.shields.io/badge/Vue.js-3DDC84?style=flat-square&logo=Vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Ionic-white?style=flat&logo=Ionic&logoColor=3880FF"/> <img src="https://img.shields.io/badge/Ant Design-white?style=flat&logo=Ant Design&logoColor=0170fe"/> <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=E34f26"/> <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3&logoColor=1572b6"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=f7df1e"/> 
+<img src="https://img.shields.io/badge/NuxtJS-green?style=flat&logo=Nuxt.js&logoColor=000000"/>
 
 
 
 #### **🧑🏻‍💻Backend**
 
-**Recentely learning Skills:** <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/NuxtJS-green?style=flat&logo=Nuxt.js&logoColor=000000"/>
+**Recentely learning Skills:** <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  
 
 **Languages**
 
