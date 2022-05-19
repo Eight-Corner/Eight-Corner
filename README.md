@@ -13,27 +13,37 @@
 
 ### 주절주절
 
-string message = "
+>string message = "
+>
+> 🙇🏻‍♂️안녕하세요. Corner입니다. 고등학생 때부터 서버 네트워크 해킹(not Cracking)을 시작했고, 당시에 GTA SA라는 게임에 멀티플레이를 지원하는게 있었는데 게임 모드는 pawno라는 언어로 개발할 수 있었어요. 게임을 즐기는 것보다 만드는 쪽에 관심이 컸던 저는 C언어 독학을 시작으로 개발에 발을 딛었어요.🦵 
+>
+>그렇게 pawno 개발을 시작했죠. 그렇게 모드를 배포하면서 서버를 오픈했고, 유저 200명 정도를 유지하고, 게임 운영자들을 두며 개인 서버 관리자로 운영한 경험이 있어요.
+>
+>제가 만든 것들을 토대로 사람들이 좋아하는 것에 만족감을 느낀 저는 이런 생활이 재밌었고 학업은 거의 놓다시피 한거같아요. 
+>
+>
+>
+>하지만 개인 서버를 운영한다는 것은 리스크가 컸습니다. IP/Port 노출이 쉬웠기 때문에 UDP Flooding 공격을 받는 것에 지친 저는 직접 들어오는 IP를 차단하고, 방화벽을 구축하고 실시간 자동 IP차단 등 많은 작업을 했었지만 DDoS공격까지 당하며 서버 폭파가 자주 일어났어서 유저들이 지쳐 떠나 망했답니다~😭
+>
+>
+>
+>그렇게 보안 지식, 네트워크 지식, 개발 지식을 쌓고자 전문성을 찾아 진로를 정하게 되었습니다.
+>
+>덕분에 또래들에 비해 이쪽 분야에 지식이 트였고, 고등학교 문과에서 공대로 운좋게 수시 면접으로만 장학 입학했어요.👨🏻‍🎓
+>
+>
+>
+>쭉 지금까지 개발 공부를 하고있습니다. 아직 이렇다 할 성과는 단언컨대 없습니다. 
+>
+>배움엔 끝이 없다고 느끼고, 저는 아직 많이 부족합니다. 누군가와 지식 공유도 많이 하고싶은 바램.
+>
+>
+>
+>저의 최종 목적지는 가능하다면 많은 개발/서버 관련 지식을 풍부하게 쌓아서 제가 하고싶은 서비스를 직접 만들거나 기여하고 싶어요. 
+>
+>욕심이지만 할 수만 있다면 시니어 개발자, CTO까지 가보고는 싶네요. ";
 
- 🙇🏻‍♂️안녕하세요. 저는 고등학생 때부터 서버 네트워크 해킹(not Cracking)을 시작했고, 당시에 GTA SA라는 게임에 멀티플레이를 지원하는게 있었는데 게임 모드는 pawno라는 언어로 개발할 수 있었어요. 게임을 즐기는 것보다 만드는 쪽에 관심이 컸던 저는 C언어 독학을 시작으로 개발에 발을 딛었어요.🦵 
 
-그렇게 pawno 개발을 시작했죠. 그렇게 모드를 배포하면서 서버를 오픈했고, 유저 200명 정도를 유지하고, 게임 운영자들을 두며 개인 서버 관리자로 운영한 경험이 있어요.
-
-제가 만든 것들을 토대로 사람들이 좋아하는 것에 만족감을 느낀 저는 이런 생활이 재밌었고 학업은 거의 놓다시피 한거같네요. 
-
-하지만 개인 서버를 운영한다는 것은 리스크가 컸습니다. IP/Port 노출이 쉬웠기 때문에 UDP Flooding 공격을 받는 것에 지친 저는 직접 들어오는 IP를 차단하고, 방화벽을 구축하고 실시간 자동 IP차단 등 많은 작업을 했었지만 DDoS공격까지 당하며 서버 폭파가 자주 일어났어서 유저들이 지쳐 떠나 망했답니다~😭
-
-그렇게 보안 지식, 네트워크 지식, 개발 지식을 쌓고자 전문성을 찾아 진로를 정하게 되었습니다.
-
-덕분에 또래들에 비해 이쪽 분야에 지식이 트였고, 고등학교 문과에서 공대로 운좋게 수시 면접으로만 장학 입학했어요.👨🏻‍🎓
-
-그렇게 쭉 지금까지 개발 공부를 하고있습니다. 아직 이렇다 할 성과는 단언컨대 없습니다. 
-
-저의 최종 목적지는 가능하다면 많은 개발/서버 관련 지식을 풍부하게 쌓아서 제가 하고싶은 서비스를 직접 만들거나 기여하고 싶어요. 
-
-할 수만 있다면 시니어 개발자, CTO까지 가보고는 싶네요. ";
-
-  
 
 ---
 
@@ -63,9 +73,10 @@ string message = "
 
 (05.14) 최근에 개인 공부하기 시작했습니다. <img src="https://img.shields.io/badge/Go-white?style=flat&logo=Go&logoColor=blue" width="100"/> 아직은 기초 문법 정도만 알아요. 그래서 할 말이 없네요! ~~( `history.go(-1)`)~~ 
 
+#####   **그 외에 사용하고 배운**
 
 
-  **그 외에 사용하고 배운**
+
   <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 최근 관심이 가서 혼자 리액와 같이 조합으로 토이 프로젝트 만들면서 가지고 놀면서 하고 있어요.
 
 <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6db33f"/> 대학교 2학년 때 C, JAVA를 했었는데 학원다니면서 스프링을 배우고, 개인(저장소에 이것저것) or 팀 웹 프로젝트(CampFire, EventMoa)를 했었어요. 지금은 서버도 다 Shutdown 했습니다.
@@ -78,17 +89,21 @@ string message = "
 
 
 
-  **Database** 
+####   **Database** 
 
   <img src="https://img.shields.io/badge/RDBMS-MySQL-4479a1?style=flat&logo=MySQL&logoColor=4479a1"/> <img src="https://img.shields.io/badge/RDBMS-Oracle-f80000?style=flat&logo=Oracle&logoColor=f80000"/>  Oracle은 Java의 형제이기 때문에 사용했었고.. MySQL은 개인적으로 친화적이라고 느껴서 작은 프로젝트에 많이 사용했습니다.
 
 <img src="https://img.shields.io/badge/RDBMS-SQLite3-003b57?style=flat&logo=MySQL&logoColor=003b57"/> Express에서 가볍게 많이 쓰는거 같아 Node Express 할 때 같이 구성했습니다.
 
-  ##### ORM 
+
+
+  #### ORM 
 
   <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/> 정말 편하네요. 👍 sql less 삶이란..  
 
-  ##### 사용해본 Server OS
+
+
+  #### 사용해본 Server OS
 
  <img src="https://img.shields.io/badge/CentOS-white?style=flat&logo=CentOS&logoColor=262577"/> <img src="https://img.shields.io/badge/Linux-Ubuntu-e95420?style=flat&logo=Ubuntu&logoColor=e95420"/> 17살 때 사용한 리눅스는 저와 인연을 끊을 수 없는 운영체제 같네요. (근데 아직 모르는거 투성이라 검색은 필수)
 
