@@ -2,7 +2,7 @@
 
   > 미래는 현재의 노력으로 얻는 것이라네요.
   >
-  > Corner Profile
+  > [Corner Profile 보러가기](https://github.com/Eight-Corner/Eight-Corner/blob/main/Intro.md)
 
 
   ## 티스토리
