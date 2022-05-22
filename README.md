@@ -54,7 +54,7 @@
   os : <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eight-Corner&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eight-Corner&layout=compact)](https://github.com/Eight-Corner/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eight-Corner&layout=compact&langs_count=10&hide=HTML,Shell,Less,TSQL,PLSQL,XSLT,Ruby,)](https://github.com/Eight-Corner/github-readme-stats)
 
 ---
 
