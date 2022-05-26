@@ -2,7 +2,7 @@
 
 ### 주절주절
 
->string message = "
+>`let message = "`
  🙇🏻‍♂️안녕하세요. Corner입니다. 고등학생 때부터 서버 네트워크 해킹(not Cracking)을 시작했고, 
 당시에 GTA SA라는 게임에 멀티플레이를 지원하는게 있었는데 게임 모드는 pawno라는 언어로 개발할 수 있었어요. 
 게임을 즐기는 것보다 만드는 쪽에 관심이 컸던 저는 C언어 독학을 시작으로 개발에 발을 딛었어요.🦵 
@@ -20,7 +20,8 @@
 >쭉 지금까지 개발 공부를 하고있습니다. 아직 이렇다 할 성과는 단언컨대 없습니다. 
 
 >배움엔 끝이 없다고 느끼고, 저는 아직 많이 부족합니다. 누군가와 지식 공유도 많이 하고싶은 바램.
-저의 최종 목적지는 가능하다면 많은 개발/서버 관련 지식을 풍부하게 쌓아서 제가 하고싶은 서비스를 직접 만들거나 기여하고 싶어요. ";
+저의 최종 목적지는 가능하다면 많은 개발/서버 관련 지식을 풍부하게 쌓아서 제가 하고싶은 서비스를 직접 만들거나 기여하고 싶어요.  
+> `";`
 
 
 ---
@@ -49,13 +50,10 @@
 
   #### **🧑🏻‍💻Backend**
 
-(05.14) 최근에 개인 공부하기 시작했습니다. <img src="https://img.shields.io/badge/Go-white?style=flat&logo=Go&logoColor=blue" width="100"/> 아직은 기초 문법 정도만 알아요. 그래서 할 말이 없네요! ~~( `history.go(-1)`)~~ 
+이제 Javascript에 뿌리를 내리기 위해 Node.js 교과서를 정독했고, Node Express, 리팩터링 책을 구입하여 개인 공부하기 시작했습니다.  <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 여태까지 Node 기반으로 Vue, React, Nuxt를 해왔어서 Javascript와 ES6 문법에 익숙했습니다. Node Express로는 혼자 리액트와 같이 조합으로 토이 프로젝트 만들면서 가지고 놀면서 하고 있어요. 이것을 이용해서 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) Firebase와 연동하고, 현 실무에서 프로젝트에 도입할 방법도 연구하고 있습니다. 
 
 #####   **그 외에 사용하고 배운**
 
-
-
-  <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 최근 관심이 가서 혼자 리액트와 같이 조합으로 토이 프로젝트 만들면서 가지고 놀면서 하고 있어요.
 
 <img src="https://img.shields.io/badge/Java-white?style=flat&logo=Java&logoColor=007396"/> <img src="https://img.shields.io/badge/Spring-black?style=flat&logo=Spring&logoColor=6db33f"/> 대학교 2학년 때 C, JAVA를 했었는데 학원다니면서 스프링을 배우고, 개인(저장소에 이것저것) or 팀 웹 프로젝트(CampFire, EventMoa)를 했었어요. 지금은 서버도 다 Shutdown 했습니다.
 
@@ -63,13 +61,13 @@
 
 <img src="https://img.shields.io/badge/Python-e8eaf6?style=for-the-badge&logo=django&logoColor=3776ab"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> 혼자 기초만 배웠습니다. 장고로 만드는건 어떤 구성일까가 정말 무슨 느낌인지만 좀 알고 싶었어요. 
 
-노드는 빈 패키지들을 채워나가는 반면, 장고는 채워진 라이브러리들을 비우는 느낌..
+노드는 빈 패키지들을 채워나가는 반면, 장고는 채워진 라이브러리들을 비우는 느낌.. 상대적으로 라이브러리(패키지)들을 알고 시작해야되겠더군요.
 
 
 
 ####   **Database** 
 
-  <img src="https://img.shields.io/badge/RDBMS-MySQL-4479a1?style=flat&logo=MySQL&logoColor=4479a1"/> <img src="https://img.shields.io/badge/RDBMS-Oracle-f80000?style=flat&logo=Oracle&logoColor=f80000"/>  Oracle은 Java의 형제이기 때문에 사용했었고.. MySQL은 개인적으로 친화적이라고 느껴서 작은 프로젝트에 많이 사용했습니다.
+  <img src="https://img.shields.io/badge/RDBMS-MySQL-4479a1?style=flat&logo=MySQL&logoColor=4479a1"/> <img src="https://img.shields.io/badge/RDBMS-Oracle-f80000?style=flat&logo=Oracle&logoColor=f80000"/>  Oracle은 Java의 형제이기 때문에 사용했었고.. MySQL은 다른 Database보다 개인적으로 친화적이라고 느껴서 작은 프로젝트에 많이 사용했습니다.
 
 <img src="https://img.shields.io/badge/RDBMS-SQLite3-003b57?style=flat&logo=MySQL&logoColor=003b57"/> Express에서 가볍게 많이 쓰는거 같아 Node Express 할 때 같이 구성했습니다.
 
@@ -77,7 +75,7 @@
 
   #### ORM 
 
-  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/> 정말 편하네요. 👍 sql less 삶이란..  
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/> 정말 편하네요. 👍 ..  
 
 
 
@@ -115,7 +113,7 @@
 
   [Corner's Tistory Blog](https://iu-corner.tistory.com)
 
-  [Github.io](https://eight-corner.github.io)
+  [Github.io](https://eight-corner.github.io) - 깃허브 블로그는 관리를 중단했어요.. 
 
 
 
