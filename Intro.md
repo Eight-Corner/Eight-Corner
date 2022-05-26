@@ -38,7 +38,7 @@
 
 <img src="https://img.shields.io/badge/Ionic-white?style=flat&logo=Ionic&logoColor=3880FF"/> + vuejs 조합으로 앱 개발할 때 사용했는데...정보도 없고 퍼블할때 좀 애먹은 기억도 많아서 노트에 메모만 수십장 적었었네요.
 
- <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>문서, 강의 보면서 혼자 개인 프로젝트에 찍먹.  <img src="https://img.shields.io/badge/Ant Design-white?style=flat&logo=Ant Design&logoColor=0170fe"/> 
+ <img src="https://img.shields.io/badge/React-61DAFB?style=square&logo=React&logoColor=white"/>문서나 유튜브 무료 강의로 필요한 정보들을 찾아 작은 프로젝트에 사용중입니다.  <img src="https://img.shields.io/badge/Ant Design-white?style=flat&logo=Ant Design&logoColor=0170fe"/> 
 
 <img src="https://img.shields.io/badge/HTML5-black?style=flat&logo=HTML5&logoColor=E34f26"/> <img src="https://img.shields.io/badge/CSS3-black?style=flat&logo=CSS3&logoColor=1572b6"/> <img src="https://img.shields.io/badge/JavaScript-black?style=flat&logo=JavaScript&logoColor=f7df1e"/> 
 
