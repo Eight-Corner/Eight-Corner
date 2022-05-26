@@ -50,7 +50,8 @@
 
   #### **🧑🏻‍💻Backend**
 
-이제 Javascript에 뿌리를 내리기 위해 Node.js 교과서를 정독했고, Node Express, 리팩터링 책을 구입하여 개인 공부하기 시작했습니다.  <img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 여태까지 Node 기반으로 Vue, React, Nuxt를 해왔어서 Javascript와 ES6 문법에 익숙했습니다. Node Express로는 혼자 리액트와 같이 조합으로 토이 프로젝트 만들면서 가지고 놀면서 하고 있어요. 이것을 이용해서 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) Firebase와 연동하고, 현 실무에서 프로젝트에 도입할 방법도 연구하고 있습니다. 
+이제 Javascript에 뿌리를 내리기 위해 Node.js 교과서를 정독했고, Node Express, 리팩터링 책을 구입하여 개인 공부하기 시작했습니다.  
+<img src="https://img.shields.io/badge/Node-Express-green?style=flat&logo=Express&logoColor=000000"/>  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/> 여태까지 Node 기반으로 Vue, React, Nuxt를 해왔어서 Javascript와 ES6 문법에 익숙했습니다. Node Express로는 혼자 리액트와 같이 조합으로 토이 프로젝트 만들면서 가지고 놀면서 하고 있어요. 이것을 이용해서 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) Firebase와 연동하고, 현 실무에서 프로젝트에 도입할 방법도 연구하고 있습니다. 
 
 #####   **그 외에 사용하고 배운**
 
