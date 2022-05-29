@@ -11,7 +11,8 @@
 
 
 ##### 진행중인 프로젝트 
-[Campfire Web](https://front-campfire-web.vercel.app/)
+[Campfire Web - Nuxt Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/)
+[전략적 팀 전투 TFT_web - React Front 개발중](https://front-toche-web.vercel.app/)
 
 ---
 
