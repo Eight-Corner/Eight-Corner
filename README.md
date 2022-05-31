@@ -16,8 +16,11 @@
 [전략적 팀 전투 TFT_web - React Front 개발중](https://front-toche-web.vercel.app/)
 
 
-##### 도전과제
+##### 도전과제 완료
 [Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/eight-corner/youtube-video-player)
+
+##### 도전과제 진행중
+[Vue/Nuxt로 Youtube Video Player-V2 HLS 영상처리 작업 개발하기](https://github.com/eight-corner/youtube-video-player-v2)
 
 ---
 
