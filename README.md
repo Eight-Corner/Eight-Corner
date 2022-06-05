@@ -7,7 +7,7 @@
 
   ## 티스토리
 
->   👉 저의 블로그도 미흡하지만 계속 개발 관련적인 글을 올리며 운영하고 있습니다! [🌱Corner's Tistory Blog](https://iu-corner.tistory.com)
+>   👉 저의 블로그도 미흡하지만 계속 개발 관련적인 글을 올리며 운영하고 있습니다! [🌱Corner's Tistory Blog](corner-dev.com)
 
 
 ##### 진행중인 프로젝트 
