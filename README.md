@@ -58,7 +58,7 @@
 
   [Corner's Velog 개발일지🌱](https://velog.io/@corner3499)
 
-  [Github.io](https://eight-corner.github.io) - Pause ..
+  [cornder-dev.com](cornder-dev.com) - My Info Site
 
 
 
