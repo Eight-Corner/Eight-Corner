@@ -1,8 +1,9 @@
 - ### Eight-Corner (Kihoon) Profile
 
-  #### [corner-info](https://corner-dev.com) - My Info Site
+
+  ### [Corner Info](https://corner-dev.com) - My Info Site
   >
-  > [Corner Profile 보러가기](https://github.com/Eight-Corner/Eight-Corner/blob/main/Intro.md)
+  > [Corner Profile 보러가기])[https://corner-dev.com/#about]
 
 
   ## 티스토리
