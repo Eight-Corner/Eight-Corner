@@ -58,7 +58,7 @@
 
   [Corner's Velog 개발일지🌱](https://velog.io/@corner3499)
 
-  [cornder-dev.com](cornder-dev.com) - My Info Site
+  [cornder-dev.com](https://cornder-dev.com) - My Info Site
 
 
 
