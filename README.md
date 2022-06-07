@@ -1,6 +1,6 @@
 - ### Eight-Corner (Kihoon) Profile
 
-  > 미래는 현재의 노력으로 얻는 것이라네요.
+  #### [corner-info](https://corner-dev.com) - My Info Site
   >
   > [Corner Profile 보러가기](https://github.com/Eight-Corner/Eight-Corner/blob/main/Intro.md)
 
