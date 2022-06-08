@@ -22,7 +22,7 @@
 [Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/eight-corner/youtube-video-player)
 
 ##### 도전과제 진행중
-[Vue/Nuxt로 Youtube Video Player-V2 HLS 영상처리 작업 개발하기](https://github.com/eight-corner/youtube-video-player-v2)
+[Vue/Nuxt로 HLS 영상처리 작업 개발하기](https://github.com/eight-corner/hls-player)
 
 ---
 
