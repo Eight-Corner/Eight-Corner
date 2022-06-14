@@ -16,7 +16,7 @@
 
 [전략적 팀 전투 TFT_web - React Front 개발중](https://front-toche-web.vercel.app/)
 
-[다이어리 웹 팀프로젝트](https://github.com/eight-corner/diary_web_api)
+[다이어리 웹 팀프로젝트](https://github.com/eight-corner/diary_web)
 
 ##### 도전과제 완료
 [Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/eight-corner/youtube-video-player)
