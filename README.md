@@ -23,7 +23,7 @@
 
 [Vue/Nuxt로 HLS 영상처리 작업 개발하기](https://github.com/eight-corner/hls-player)
 ##### 🏃‍♂️ achievements progress
-[Admin-Dashboard](https://admin-dashboard-psi-ten.vercel.app/)
+[Admin-Dashboard](https://admin-dashboard-psi-ten.vercel.app/)feat.<a style="text-decoration: none; color: #4db6ac; font-weight:500;" href="https://github.com/eight-corner/admin-dashboard" rel="noopener">repository</a>
 
 ---
 
