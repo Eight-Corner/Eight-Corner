@@ -18,11 +18,12 @@
 
 [다이어리 웹 팀프로젝트](https://github.com/eight-corner/diary_web)
 
-##### 도전과제 완료
+##### <img src="https://user-images.githubusercontent.com/68332735/173863464-7c5e0d06-e797-4506-8b9f-77bb7d5a5acb.png" width="30px" height="30px" alt="achievements" style="display: inline-block;" /> achievements done
 [Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/eight-corner/youtube-video-player)
 
-##### 도전과제 진행중
 [Vue/Nuxt로 HLS 영상처리 작업 개발하기](https://github.com/eight-corner/hls-player)
+##### 🏃‍♂️ achievements progress
+[Admin-Dashboard](https://admin-dashboard-psi-ten.vercel.app/)
 
 ---
 
