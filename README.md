@@ -72,6 +72,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eight-Corner&layout=compact&langs_count=10&hide=HTML,Shell,Less,TSQL,PLSQL,XSLT,Ruby,)](https://github.com/Eight-Corner/github-readme-stats)
 
 ---
+[이웃](https://github.com/digitalRepresentation)
 
 <!-- 
 
