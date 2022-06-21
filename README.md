@@ -16,7 +16,7 @@
 
 [전략적 팀 전투 TFT_web - React Front 개발중](https://front-toche-web.vercel.app/)
 
-[다이어리 웹 팀프로젝트](https://github.com/eight-corner/diary_web)
+[오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web)
 
 ##### <img src="https://user-images.githubusercontent.com/68332735/173863464-7c5e0d06-e797-4506-8b9f-77bb7d5a5acb.png" width="30px" height="30px" alt="achievements" style="display: inline-block;" /> achievements done
 [Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/eight-corner/youtube-video-player)
