@@ -72,8 +72,30 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eight-Corner&layout=compact&langs_count=10&hide=HTML,Shell,Less,TSQL,PLSQL,XSLT,Ruby,)](https://github.com/Eight-Corner/github-readme-stats)
 
 ---
-[이웃](https://github.com/digitalRepresentation)
 
+##### 이웃
+
+<a href="https://github.com/digitalRepresentation" target="_blank" rel="noopener" >
+<div class="clearfix d-flex d-md-block flex-items-center mb-4 mb-md-0">
+    <div class="position-relative d-inline-block col-2 col-md-12 mr-3 mr-md-0 flex-shrink-0" style="z-index:4;">
+        <a itemprop="image" href="https://avatars.githubusercontent.com/u/50911502?v=4"><img style="height:auto;" alt="Avatar" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/50911502?v=4"></a>
+      
+
+    </div>
+
+    <div class="vcard-names-container float-left js-profile-editable-names col-12 py-3 js-sticky js-user-profile-sticky-fields" style="position: sticky;" data-original-top="0px">
+      <h1 class="vcard-names ">
+        <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">
+          Jinyoung Kim
+        </span>
+        <span class="p-nickname vcard-username d-block" itemprop="additionalName">
+          digitalRepresentation
+
+        </span>
+      </h1>
+    </div>
+  </div>
+</a>
 <!-- 
 
   Recent Learning Projects Web. 
