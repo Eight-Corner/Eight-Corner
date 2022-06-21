@@ -75,26 +75,17 @@
 
 ##### 이웃
 
-<a href="https://github.com/digitalRepresentation" target="_blank" rel="noopener" >
-<div class="clearfix d-flex d-md-block flex-items-center mb-4 mb-md-0">
-    <div class="position-relative d-inline-block col-2 col-md-12 mr-3 mr-md-0 flex-shrink-0" style="z-index:4;">
-        <a itemprop="image" href="https://avatars.githubusercontent.com/u/50911502?v=4"><img style="height:auto;" alt="Avatar" width="260" height="260" class="avatar avatar-user width-full border color-bg-default" src="https://avatars.githubusercontent.com/u/50911502?v=4"></a>
-      
-
-    </div>
-
-    <div class="vcard-names-container float-left js-profile-editable-names col-12 py-3 js-sticky js-user-profile-sticky-fields" style="position: sticky;" data-original-top="0px">
-      <h1 class="vcard-names ">
-        <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">
-          Jinyoung Kim
-        </span>
-        <span class="p-nickname vcard-username d-block" itemprop="additionalName">
-          digitalRepresentation
-
-        </span>
-      </h1>
-    </div>
-  </div>
+<a href="https://github.com/digitalRepresentation" target="_blank" rel="noopener">
+ <li class="mb-2 d-flex" data-test-selector="grid-mode-element">
+      <a href="https://github.com/digitalRepresentation" class="mr-2" data-hovercard-type="user" data-hovercard-url="/users/digitalRepresentation/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self">
+        <img src="https://avatars.githubusercontent.com/u/50911502?s=64&amp;v=4" alt="@digitalRepresentation" size="32" height="32" width="32" data-view-component="true" class="avatar circle">
+      </a>
+      <span data-view-component="true" class="flex-self-center min-width-0 css-truncate css-truncate-overflow width-fit flex-auto">
+        <a href="https://github.com/digitalRepresentation" class="Link--primary no-underline flex-self-center">
+          <strong>digitalRepresentation</strong>
+          <span class="color-fg-muted">Jinyoung Kim</span>
+        </a>
+</span>    </li>
 </a>
 <!-- 
 
