@@ -14,7 +14,7 @@
 ##### 진행중인 프로젝트 
 [Campfire Web - React Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/)
 
-[전략적 팀 전투 TFT_web - React Front 개발중](https://front-toche-web.vercel.app/)
+[전략적 팀 전투 TFT_web - Front 개발중](https://front-toche-web.vercel.app/)
 
 [오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web)
 
