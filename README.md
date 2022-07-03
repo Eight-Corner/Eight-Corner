@@ -21,7 +21,7 @@
 
 [Vue/Nuxt로 HLS 영상처리 작업 개발하기](https://github.com/eight-corner/hls-player)
 
-[전략적 팀 전투 TFT_web - Front 개발종료(https://front-toche-web.vercel.app/) [#2](http://develop-corner.com)
+[전략적 팀 전투 TFT_web - Front 개발종료](https://front-toche-web.vercel.app/) [#2](http://develop-corner.com)
 
 
 ##### 🏃‍♂️ achievements progress
