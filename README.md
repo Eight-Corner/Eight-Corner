@@ -12,7 +12,7 @@
 
 
 ##### 진행중인 프로젝트 
-[Campfire Web - React Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/)
+[Campfire App 📱 - React Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/)
 
 [오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web) - Backend, DevOps 담당
 
