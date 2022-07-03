@@ -14,16 +14,19 @@
 ##### 진행중인 프로젝트 
 [Campfire Web - React Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/)
 
-[전략적 팀 전투 TFT_web - Front 개발중](https://front-toche-web.vercel.app/) [#2](http://develop-corner.com)
-
 [오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web) - Backend, DevOps 담당
 
 ##### <img src="https://user-images.githubusercontent.com/68332735/173863464-7c5e0d06-e797-4506-8b9f-77bb7d5a5acb.png" width="30px" height="30px" alt="achievements" style="display: inline-block;" /> achievements done
 [Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/eight-corner/youtube-video-player)
 
 [Vue/Nuxt로 HLS 영상처리 작업 개발하기](https://github.com/eight-corner/hls-player)
+
+[전략적 팀 전투 TFT_web - Front 개발종료(https://front-toche-web.vercel.app/) [#2](http://develop-corner.com)
+
+
 ##### 🏃‍♂️ achievements progress
 [Admin-Dashboard](https://admin-dashboard-psi-ten.vercel.app/) (feat.<a style="text-decoration: none; color: #4db6ac !important; font-weight:500;" href="https://github.com/eight-corner/admin-dashboard" rel="noopener">repository</a>)
+
 
 ---
 
