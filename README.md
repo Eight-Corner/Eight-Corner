@@ -11,7 +11,7 @@
 >   👉 저의 개발 관련적인 글을 올리며 운영하고 있습니다! [🌱Corner's Tistory Blog](https://iu-corner.tistory.com)
 
 
-##### 진행중인 프로젝트 
+##### 🏃‍♂️ project progress
 [캠핑24 App 📱 - React Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/)
 
 [오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web) - Backend, DevOps 담당
