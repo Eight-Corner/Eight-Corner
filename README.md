@@ -12,7 +12,7 @@
 
 
 ##### 🏃‍♂️ project progress
-[캠핑24 App 📱 - React Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/)
+[캠핑24 App 📱 - React Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/) - Fullstack Service 개발중
 
 [오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web) - Backend, DevOps 담당
 
