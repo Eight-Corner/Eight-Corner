@@ -12,16 +12,17 @@
 
 
 ##### 🏃‍♂️ project progress
-[캠핑24 App 📱 - React Front 개발중, Node Backend 개발중 ](https://front-campfire-web.vercel.app/) - Fullstack Service 개발중
+[캠핑24 App 📱 - React Front 개발중, Node Backend 개발중 ]  - Fullstack Service 개발중
+<!-- (https://front-campfire-web.vercel.app/) -->
 
-[오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web) - Backend, DevOps 담당
+<!-- [오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web) - Backend, DevOps 담당 -->
 
 ##### <img src="https://user-images.githubusercontent.com/68332735/173863464-7c5e0d06-e797-4506-8b9f-77bb7d5a5acb.png" width="30px" height="30px" alt="achievements" style="display: inline-block;" /> achievements done
 [Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/eight-corner/youtube-video-player)
 
-[Vue/Nuxt로 HLS 영상처리 작업 개발하기](https://github.com/eight-corner/hls-player)
+[Vue/Nuxt로 HLS 영상처리 작업 개발, 개인 공부전용](https://github.com/eight-corner/hls-player)
 
-[전략적 팀 전투 TFT_web - Front 개발종료](https://front-toche-web.vercel.app/) [#2](http://github.com/eight-corner/front_toche_web)
+[전략적 팀 전투 TFT_web - 지인 도움용](https://front-toche-web.vercel.app/) [#2](http://github.com/eight-corner/front_toche_web)
 
 
 ##### 🏃‍♂️ achievements progress
