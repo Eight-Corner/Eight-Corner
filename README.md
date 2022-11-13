@@ -26,9 +26,9 @@ side Project - [캠핑24 App 📱]
 
 
 ##### 🏃‍♂️ achievements progress
-[Flashone-Dashboard](https://admin-dashboard-psi-ten.vercel.app/) (feat.<a style="text-decoration: none; color: #4db6ac !important; font-weight:500;" href="https://github.com/eight-corner/admin-dashboard" rel="noopener">repository</a>)
+[Flashone-Dashboard](https://admin-dashboard-psi-ten.vercel.app/)
 
-[Flashone-Dashboard FireHosting](https://flashone-console.web.app/)
+<a style="font-weight:600; color:#666666;" href="https://flashone-console.web.app/" target="blank">[Flashone-Dashboard FireHosting]</a>
 
 
 ---
