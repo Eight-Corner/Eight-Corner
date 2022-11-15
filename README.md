@@ -12,7 +12,7 @@
 
 
 ##### 🏃‍♂️ project progress
-side Project - [캠핑24 App 📱]
+<!-- side Project - [캠핑24 App 📱] -->
 <!-- (https://front-campfire-web.vercel.app/) -->
 
 <!-- [오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web) - Backend, DevOps 담당 -->
