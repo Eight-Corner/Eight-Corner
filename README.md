@@ -22,7 +22,7 @@ side Project - [캠핑24 App 📱]
 
 [Vue/Nuxt로 HLS 영상처리 작업 개발, 개인 공부전용](https://github.com/eight-corner/hls-player)
 
-[전략적 팀 전투 TFT_web, ](https://front-toche-web.vercel.app/) [#2](http://github.com/eight-corner/front_toche_web)
+<!-- [전략적 팀 전투 TFT_web, ](https://front-toche-web.vercel.app/) [#2](http://github.com/eight-corner/front_toche_web) -->
 
 
 ##### 🏃‍♂️ achievements progress
