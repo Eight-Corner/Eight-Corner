@@ -76,7 +76,7 @@ scss +
 
   [Corner's Velog 개발일지🌱](https://velog.io/@corner3499)
 
-  [corner-dev.com](https://corner-dev.com) - My Info Site
+<!--  [corner-dev.com](https://corner-dev.com) - My Info Site -->
 
 
 
