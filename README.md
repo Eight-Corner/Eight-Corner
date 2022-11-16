@@ -1,4 +1,4 @@
-- ### Eight-Corner (Kihoon) Profile
+- ### Corner (Kihoon) Profile
 
 
 <!--  ### [Corner Info](https://corner-dev.com) - My Info Site -->
