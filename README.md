@@ -1,7 +1,7 @@
 - ### Eight-Corner (Kihoon) Profile
 
 
-  ### [Corner Info](https://corner-dev.com) - My Info Site
+<!--  ### [Corner Info](https://corner-dev.com) - My Info Site -->
   >
 <!--   > [Corner Profile 보러가기](https://corner-dev.com/#about) -->
 
