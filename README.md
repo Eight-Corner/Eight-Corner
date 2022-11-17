@@ -26,7 +26,7 @@
 
 
 ##### 🏃‍♂️ achievements progress
-[Flashone-Dashboard](https://admin-dashboard-psi-ten.vercel.app/)
+[Flashone-Dashboard](https://flashone-console.vercel.app/)
 
 <a style="font-weight:600; color:#666666;" href="https://flashone-console.web.app/" target="blank">[Flashone-Dashboard FireHosting]</a>
 
