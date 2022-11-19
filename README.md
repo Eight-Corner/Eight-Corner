@@ -1,4 +1,4 @@
-- ### Corner (Kihoon) Profile
+- ### Corner (Kihoon) GitHub
 
 
 <!--  ### [Corner Info](https://corner-dev.com) - My Info Site -->
