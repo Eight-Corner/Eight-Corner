@@ -15,14 +15,14 @@
 <!-- side Project - [캠핑24 App 📱] -->
 <!-- (https://front-campfire-web.vercel.app/) -->
 
-<!-- [오늘은, 웹 팀프로젝트](https://github.com/eight-corner/oneuleun_web) - Backend, DevOps 담당 -->
+<!-- [오늘은, 웹 팀프로젝트](https://github.com/c-owner/oneuleun_web) - Backend, DevOps 담당 -->
 
 ##### <img src="https://user-images.githubusercontent.com/68332735/173863464-7c5e0d06-e797-4506-8b9f-77bb7d5a5acb.png" width="30px" height="30px" alt="achievements" style="display: inline-block;" /> achievements done
-[Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/eight-corner/youtube-video-player)
+[Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/c-owner/youtube-video-player)
 
-[Vue/Nuxt로 HLS 영상처리 작업 개발, 개인 공부전용](https://github.com/eight-corner/hls-player)
+[Vue/Nuxt로 HLS 영상처리 작업 개발, 개인 공부전용](https://github.com/c-owner/hls-player)
 
-<!-- [전략적 팀 전투 TFT_web, ](https://front-toche-web.vercel.app/) [#2](http://github.com/eight-corner/front_toche_web) -->
+<!-- [전략적 팀 전투 TFT_web, ](https://front-toche-web.vercel.app/) [#2](http://github.com/c-owner/front_toche_web) -->
 
 
 ##### 🏃‍♂️ achievements progress
@@ -66,7 +66,7 @@ scss +
 
   
 <!-- 임시주석
-  Click Badge [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eight-corner)  [![MyInstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kingrlgns/) 뱃지 누르면 이동
+  Click Badge [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/c-owner)  [![MyInstagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/kingrlgns/) 뱃지 누르면 이동
 -->
   
 
@@ -82,8 +82,8 @@ scss +
 
   os : <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eight-Corner&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eight-Corner&layout=compact&langs_count=10&hide=HTML,Shell,Less,TSQL,PLSQL,XSLT,Ruby,)](https://github.com/Eight-Corner/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-owner&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-owner&layout=compact&langs_count=10&hide=HTML,Shell,Less,TSQL,PLSQL,XSLT,Ruby,)](https://github.com/c-owner/github-readme-stats)
 
 ---
 
@@ -125,7 +125,8 @@ scss +
   -->
 
   <!--
-  **Eight-Corner/Eight-Corner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **
+/c-owner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   Here are some ideas to get you started:
 
