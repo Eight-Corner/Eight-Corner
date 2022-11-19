@@ -5,11 +5,11 @@
   >
 <!--   > [Corner Profile 보러가기](https://corner-dev.com/#about) -->
 
-
+<!--
   ## 티스토리
 
 >   👉 저의 개발 관련적인 글을 올리며 운영하고 있습니다! [🌱Corner's Tistory Blog](https://iu-corner.tistory.com)
-
+-->
 
 ##### 🏃‍♂️ project progress
 <!-- side Project - [캠핑24 App 📱] -->
