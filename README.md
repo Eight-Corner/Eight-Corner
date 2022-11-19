@@ -62,7 +62,7 @@ scss +
 -->
 ---
 
-  ## **Social**
+<!--  ## **Social** -->
 
   
 <!-- 임시주석
@@ -70,11 +70,11 @@ scss +
 -->
   
 
-  👇 click! web-blog - 관리하기 힘들지만 티스토리, velog는 꾸준히 하고 있습니다.✍️
+<!--  👇 click! web-blog -->
 
-[Tistory](https://iu-corner.tistory.com)
+[Tistory](https://iu-corner.tistory.com) 
 
-  [Corner's Velog 개발일지🌱](https://velog.io/@corner3499)
+<!--  [Corner's Velog 개발일지🌱](https://velog.io/@corner3499) -->
 
 <!--  [corner-dev.com](https://corner-dev.com) - My Info Site -->
 
