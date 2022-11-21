@@ -28,7 +28,7 @@
 ##### 🏃‍♂️ achievements progress
 <!-- [Flashone-Dashboard](https://flashone-console.vercel.app/) -->
 
-### <a style="font-weight:600; color:#666666;" href="https://flashone-console.web.app/" target="blank">[Flashone-Dashboard FireHosting]</a>
+### <a style="font-weight:600; color:#666666;" href="https://c-flashone.web.app/" target="blank">[FlashONE FireHosting]</a>
 
 
 ---
