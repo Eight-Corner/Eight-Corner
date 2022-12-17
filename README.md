@@ -1,9 +1,12 @@
+<div align="center">
+  
 - ### Corner (Kihoon) GitHub
+
 ## Hi there, 👋 Full Stack Hoon Here
 
 ## Connect with me
 
-<div align="center">
+
 <a href="https://github.com/c-owner" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -11,6 +14,9 @@
 <img src=https://img.shields.io/badge/gmail-%23EE4831.svg?&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 </a>
 </div>
+
+--- 
+
 
 <!--  ### [Corner Info](https://corner-dev.com) - My Info Site -->
   >
@@ -98,7 +104,7 @@ scss +
 
 ---
 
-##### 이웃
+##### Friends
 
 <a href="https://github.com/digitalRepresentation" target="_blank" rel="noopener">
  <li class="mb-2 d-flex" data-test-selector="grid-mode-element">
