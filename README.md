@@ -1,6 +1,6 @@
 <div align="center">
   
-- ### Corner (Kihoon) GitHub
+### Corner (Kihoon) GitHub
 
 ## Hi there, 👋 Full Stack Hoon Here
 
