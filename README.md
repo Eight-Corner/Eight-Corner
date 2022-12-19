@@ -1,11 +1,15 @@
 <div align="center">
   
 ### Corner (Kihoon) GitHub
-[!tree](https://github.com/c-owner/algorithms-ts/raw/master/img.png)
-
+  
 
 ## Hi there, 👋 Full Stack Hoon Here
 
+  
+  <img src="https://github.com/c-owner/algorithms-ts/raw/master/img.png" alt="tree" />
+  
+ 
+  
 ## Connect with me
 
 
