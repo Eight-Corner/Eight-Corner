@@ -42,15 +42,15 @@
 
 <!-- [오늘은, 웹 팀프로젝트](https://github.com/c-owner/oneuleun_web) - Backend, DevOps 담당 -->
 
-##### <img src="https://user-images.githubusercontent.com/68332735/173863464-7c5e0d06-e797-4506-8b9f-77bb7d5a5acb.png" width="30px" height="30px" alt="achievements" style="display: inline-block;" /> achievements done
+<!-- #### <img src="https://user-images.githubusercontent.com/68332735/173863464-7c5e0d06-e797-4506-8b9f-77bb7d5a5acb.png" width="30px" height="30px" alt="achievements" style="display: inline-block;" /> achievements done
 [Vue/Nuxt로 Youtube Video Player 개발하기](https://github.com/c-owner/youtube-video-player)
-
-[Vue/Nuxt로 HLS 영상처리 작업 개발, 개인 공부전용](https://github.com/c-owner/hls-player)
+ -->
+<!-- [Vue/Nuxt로 HLS 영상처리 작업 개발, 개인 공부전용](https://github.com/c-owner/hls-player) -->
 
 <!-- [전략적 팀 전투 TFT_web, ](https://front-toche-web.vercel.app/) [#2](http://github.com/c-owner/front_toche_web) -->
 
 
-##### 🏃‍♂️ achievements progress
+<!-- #### 🏃‍♂️ achievements progress -->
 <!-- ### <a style="font-weight:600; color:#666666;" href="https://c-flashone.web.app/" target="blank">[FlashONE FireHosting]</a> -->
 
 
