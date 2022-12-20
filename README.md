@@ -36,7 +36,7 @@
 >   👉 저의 개발 관련적인 글을 올리며 운영하고 있습니다! [🌱Corner's Tistory Blog](https://iu-corner.tistory.com)
 -->
 
-##### 🏃‍♂️ project progress
+<!-- ##### 🏃‍♂️ project progress -->
 <!-- side Project - [캠핑24 App 📱] -->
 <!-- (https://front-campfire-web.vercel.app/) -->
 
@@ -54,7 +54,7 @@
 <!-- ### <a style="font-weight:600; color:#666666;" href="https://c-flashone.web.app/" target="blank">[FlashONE FireHosting]</a> -->
 
 
----
+<!-- --- -->
 
 <!-- 임시주석
 ## **🖥Frontend**
@@ -83,7 +83,7 @@ scss +
 
  <img src="https://img.shields.io/badge/Bitbucket-black?style=flat&logo=Bitbucket&logoColor=0052cc"/> <img src="https://img.shields.io/badge/Git-black?style=flat&logo=Git&logoColor=f05032"/> 
 -->
----
+<!-- --- -->
 
 <!--  ## **Social** -->
 
