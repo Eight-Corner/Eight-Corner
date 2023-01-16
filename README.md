@@ -1,12 +1,12 @@
 <div align="center">
   
-### Corner (Kihoon) GitHub
+# Corner (Kihoon) GitHub
   
 
-## Hi there, 👋 Full Stack Hoon Here
-
+<!-- ## Hi there, 👋 Full Stack Hoon Here -->
+<!-- 
 <img width="832" alt="image" src="https://user-images.githubusercontent.com/68332735/208432291-1f5963a8-c899-4cea-9685-448f655ef7e0.png">
-
+ -->
  
   
   
