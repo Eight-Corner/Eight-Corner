@@ -24,7 +24,7 @@
 </div>
 
 ## Projects
-- <a style="font-size:24px;color: indigo; font-weight: bold" href="https://memory-webapp.vercel.app/">메모리 웹 SNS 사이트</a>
+- <a style="font-size:24px;color: indigo; font-weight: bold" target="_blank" href="https://memory-webapp.vercel.app/">메모리 웹 SNS 사이트</a>
 
 --- 
 
