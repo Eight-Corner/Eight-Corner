@@ -107,7 +107,7 @@ scss +
 
 
 
-  os : <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<!--  os : <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=c-owner&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-owner&layout=compact&langs_count=10&exclude_repo=eventMoa,Algorithm,Project&hide=HTML,CSS,SCSS,Shell,Less,TSQL,PLSQL,XSLT,Ruby,)](https://github.com/c-owner/github-readme-stats)
